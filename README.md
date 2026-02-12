@@ -1,12 +1,19 @@
-# Hi there, I'm Pearl Kristian Gardose 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Full-Stack+Developer;Python+%7C+JavaScript+%7C+PHP)](https://github.com/pgardose)
 
 <div align="center">
   <a href="https://github.com/pgardose">
     <img alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=pgardose.pgardose&left_color=00000000&right_color=222222&left_text=Profile%20Views" />
   </a>
   <br/>
-  <em>Aspiring Full-Stack Developer | Python • JavaScript • PHP Enthusiast | Building scalable solutions</em>
+  <em>Building scalable solutions • Open to collaborations</em>
 </div>
+
+---
+
+## 🐍 Contribution Activity
+
+![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
