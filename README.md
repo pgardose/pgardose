@@ -1,13 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;C+%7C+C+++%7C+Java+%7C+Python+%7C+JavaScript+%7C+PHP)](https://github.com/pgardose)
-
 <div align="center">
-  <a href="https://github.com/pgardose">
-    <img alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=pgardose.pgardose&left_color=00000000&right_color=222222&left_text=Profile%20Views" />
-  </a>
-  <br/>
-  <em>Building scalable solutions • Open to collaborations</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;C+++%7C+C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript+%7C+PHP" alt="Typing SVG" />
 </div>
 
+<!-- SNAKE ANIMATION (DARK/LIGHT MODE) -->
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pgardose/pgardose/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pgardose/pgardose/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pgardose/pgardose/output/github-contribution-grid-snake.svg" />
+</picture>
 ---
 
 ## 🐍 Contribution Activity
