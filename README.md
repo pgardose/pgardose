@@ -2,23 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+JavaScript+%7C+PHP" alt="Typing SVG" />
 </div>
 
-<!-- SNAKE ANIMATION (DARK/LIGHT MODE) -->
-## 🐍 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pgardose/pgardose/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pgardose/pgardose/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pgardose/pgardose/output/github-contribution-grid-snake.svg" />
-</picture>
----
-
-## 🐍 Contribution Activity
-
-![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Java-Licensed ITS Oracle Professional** with a passion for technology and innovation. My journey spans both software and hardware domains:
