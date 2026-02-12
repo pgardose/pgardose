@@ -5,7 +5,7 @@
     <img alt="Profile Views" src="https://visitor-badge.laobi.icu/badge?page_id=pgardose.pgardose&left_color=00000000&right_color=222222&left_text=Profile%20Views" />
   </a>
   <br/>
-  <em>Full-Stack Developer | Python • JavaScript • PHP Enthusiast | Building scalable solutions</em>
+  <em>Aspiring Full-Stack Developer | Python • JavaScript • PHP Enthusiast | Building scalable solutions</em>
 </div>
 
 ---
