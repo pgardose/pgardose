@@ -10,48 +10,6 @@
 
 ---
 
-## 🐍 Contribution Activity
-
-![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgardose&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgardose&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=58a6ff" />
-</div>
-
-<div align="center" style="display:none">
-  <!-- Light mode fallback -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgardose&show_icons=true&theme=light&hide_border=true&bg_color=ffffff&text_color=000000&title_color=0366d6&icon_color=0366d6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgardose&layout=compact&theme=light&hide_border=true&bg_color=ffffff&text_color=000000&title_color=0366d6" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=pgardose&theme=dark&column=6&margin-w=15&margin-h=15&no-frame=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=pgardose&theme=flat&column=6&margin-w=15&margin-h=15&no-frame=true" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=pgardose&theme=dark&column=6&margin-w=15&margin-h=15&no-frame=true" />
-  </picture>
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgardose&theme=dark&hide_border=true&stroke=0000&background=00000000&ring=58a6ff&fire=ff6b6b" alt="Streak Stats" />
-</div>
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
