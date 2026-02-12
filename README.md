@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;Python+%7C+JavaScript+%7C+PHP)](https://github.com/pgardose)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;Java+%C+Python+%7C+JavaScript+%7C+PHP)](https://github.com/pgardose)
 
 <div align="center">
   <a href="https://github.com/pgardose">
@@ -14,6 +14,39 @@
 
 ![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/pgardose/pgardose/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Java-Licensed ITS Oracle Professional** with a passion for technology and innovation. My journey spans both software and hardware domains:
+
+### 🎓 **Professional Background**
+- **Java Certified** | Oracle ITS Licensed Professional
+- Aspiring to become a Full-Stack Developer with expertise in Java, Python, JavaScript, and PHP
+- Strong foundation in backend systems and scalable architecture
+
+
+### 🤖 **Current Focus**
+- **AI Integration & LLMs** - Exploring how to seamlessly integrate large language models into applications
+- **LLM Optimization** - Studying techniques to fine-tune and optimize model performance
+- **Prompt Engineering** - Crafting effective prompts for better AI outputs
+
+### 🚀 **Big Dream**
+Become an **AI Engineer** who bridges the gap between traditional software development and cutting-edge artificial intelligence systems. I'm committed to mastering AI/ML technologies and building intelligent solutions.
+
+### 🔧 **Hardware Enthusiast**
+Beyond software, I'm deeply passionate about **hardware engineering**:
+- Currently learning GPU architecture and design
+- Planning to **build a working GPU from scratch** (ambitious but achievable!)
+- Interested in FPGA programming and hardware optimization
+- Exploring the intersection of hardware acceleration and AI
+
+### 🌟 **Core Values**
+- **Continuous Learning** - Always exploring new technologies
+- **Problem Solving** - Building practical solutions to real challenges
+- **Innovation** - Pushing boundaries between software and hardware
+- **Open to Collaboration** - Love working with like-minded developers and engineers
 
 ---
 
@@ -45,7 +78,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-pgardose-181717?style=for-the-badge&logo=github)](https://github.com/pgardose)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pearl%20Kristian-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pgardose)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:pearlkristiangardose@gmail.com)
   
 </div>
 
