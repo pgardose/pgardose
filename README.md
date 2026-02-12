@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;Java+%C+Python+%7C+JavaScript+%7C+PHP)](https://github.com/pgardose)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Pearl+Kristian+Gardose;Aspiring+Full-Stack+Developer;C+%7C+C+++%7C+Java+%7C+Python+%7C+JavaScript+%7C+PHP)](https://github.com/pgardose)
 
 <div align="center">
   <a href="https://github.com/pgardose">
